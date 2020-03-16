@@ -1,0 +1,59 @@
+* {
+    border: 0;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: 'Montserrat';
+}
+
+
+/* navbar */
+
+.navbar {
+    background-color: #171717;
+}
+
+.nav-item {
+    margin-right: 30px;
+}
+
+.nav-item.active a {
+    font-weight: 600;
+    color: #F9B234 !important;
+}
+
+.nav-link span {
+    color: #F9B234 !important;
+}
+
+
+/* end navbar */
+
+.single_produk h1,
+.category h2 {
+    color: #F9B234 !important;
+}
+
+.category {
+    margin: 120px 0 100px;
+}
+
+.category .figure h4 {
+    font-size: 22px;
+    font-weight: 400;
+    color: #171717;
+}
+
+
+/* footer */
+
+footer {
+    background-color: #171717;
+    font-weight: 21px;
+    color: white;
+}
+
+
+/* end footer */

@@ -1,0 +1,37 @@
+* {
+    border: 0;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: 'Montserrat';
+}
+
+.cart-header h1,
+.modal h3 {
+    font-family: 'lora';
+    color: #F9B234 !important;
+}
+
+.Checkout .checkout-detail {
+    border: solid 1px #EAEAEA;
+    background: #F6F7FB;
+    color: #171717;
+}
+
+.Checkout .row:last-child button {
+    border: solid 1px #EAEAEA;
+}
+
+
+/* footer */
+
+footer {
+    background-color: #171717;
+    font-weight: 21px;
+    color: white;
+}
+
+
+/* end footer */
